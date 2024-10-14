@@ -4,6 +4,8 @@ A small web application project built for exercise purpose. To enhance and get f
 
 This project is mainly for me to get myself exposed to responsive website building and gain experiences in front end designing.
 
+GitHub live page of the mini project: https://hanz02.github.io/project-ren/
+
 ## References 
 
 This project was initially built referenced to a YouTube tutorial on reponsive front-end web design, released by a YouTuber named Brian Design. The foundation layout of the website is similar to the Tutorial Video on YouTube, but the colors, font-size and decorations are personalized. 
